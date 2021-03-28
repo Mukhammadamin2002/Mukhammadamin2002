@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MuSa0205)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/mukhammadamin-abdullaev-3a0193203)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mukhammadamin2002&show_icons=true&count_private=true"/>
+
 <!--
 **Mukhammadamin2002/Mukhammadamin2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
